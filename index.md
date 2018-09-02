@@ -1,7 +1,9 @@
-# mvcaaa.github.io
-
-## Personal Website
-
-@url: https://mvcaaa.github.io
-
-@author: Andrey Astashov <mvc.aaa@gmail.com>
+# Andrey Astashov
+## Web developer
+### Personal Website
+```php
+/**
+* @author: Andrey Astashov <mvc.aaa@gmail.com>
+* @url: https://mvcaaa.github.io
+*/
+```
