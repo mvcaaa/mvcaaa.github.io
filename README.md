@@ -3,3 +3,5 @@
 ## Personal Website
 
 @author: Andrey Astashov <mvc.aaa@gmail.com>
+
+v 0.1
