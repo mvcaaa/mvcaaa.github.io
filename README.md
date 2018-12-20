@@ -4,4 +4,4 @@
 
 @author: Andrey Astashov <mvc.aaa@gmail.com>
 
-v 0.2
+v0.3
